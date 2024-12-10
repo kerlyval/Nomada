@@ -3,7 +3,7 @@ import { Details, Home, Login, Register, Reservations } from '../app';
 import MainLayout from '../layouts/MainLayout';
 import AuthLayout from '../layouts/AuthLayout';
 import Protected from './Protected';
-import Public from './public';
+import Public from './Public';
 
 function AppRouter() {
 	return (
